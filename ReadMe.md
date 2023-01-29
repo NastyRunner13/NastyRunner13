@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭I'm currently working on some simple projects to level up my skills.<br>🌱I'm currently learning ReactJS, Redux and other cool things.<br>🖧 Would love to build up networks and collaborate.<br>📧 Shoot me an Email or add me on LinkedIn :)<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nastyrunner13&label=Profile%20views&color=0e75b6&style=flat" alt="nastyrunner13" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_princegupta1301) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princegupta1301) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/princegupta1301) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCxXDIfs9RqDP_vubkN8ZEBw) 
