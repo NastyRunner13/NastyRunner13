@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭I'm currently working on some simple projects to level up my skills.<br>🌱I'm currently learning ReactJS, Redux and other cool things.<br>🖧 Would love to build up networks and collaborate.<br>📧 Shoot me an Email or add me on LinkedIn :)<br>
+Hi, I'm Prince Gupta, a final-year Computer Science Engineering student at VIT Bhopal with a deep passion for Artificial Intelligence and Machine Learning. My journey in the tech world has been fueled by curiosity and a drive to innovate. I've immersed myself in the complexities of AI, exploring its potential to transform industries and solve real-world problems.
+
+In addition to my AI and machine learning pursuits, I've honed my skills in full-stack web development, mastering both front-end and back-end technologies to build seamless, user-centric applications. My versatility extends to the creative realm as well—I am a Level 1 video editing freelancer on Fiverr, where I bring stories to life through compelling visuals.
+
+Combining technical expertise with creative flair, I am committed to leveraging technology to make a meaningful impact. Let's connect and explore opportunities to innovate together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_princegupta1301) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princegupta1301) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/princegupta1301) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCxXDIfs9RqDP_vubkN8ZEBw) 
