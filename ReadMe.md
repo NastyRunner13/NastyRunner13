@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, I'm Prince Gupta, a final-year Computer Science Engineering student at VIT Bhopal with a deep passion for Artificial Intelligence and Machine Learning. My journey in the tech world has been fueled by curiosity and a drive to innovate. I've immersed myself in the complexities of AI, exploring its potential to transform industries and solve real-world problems.<br><br>In addition to my AI and machine learning pursuits, I've honed my skills in full-stack web development, mastering both front-end and back-end technologies to build seamless, user-centric applications. My versatility extends to the creative realm as well—I am a Level 1 video editing freelancer on Fiverr, where I bring stories to life through compelling visuals.<br><br>Combining technical expertise with creative flair, I am committed to leveraging technology to make a meaningful impact. Let's connect and explore opportunities to innovate together!
+Hi, I'm Prince Gupta, a **Computer Science Engineering graduate** from **Vellore Institute of Technology (VIT), Bhopal**, specializing in **Artificial Intelligence and Machine Learning**.
+
+Currently, I’m working as an **AI Engineer at Tata Communications Ltd**, where I focus on **building intelligent AI agents** and **scalable machine learning solutions** that drive automation and enhance decision-making.
+
+Beyond engineering, I’ve successfully worked with **100+ global clients** on **500+ video editing projects** as a **Level 2 Seller on Fiverr**, blending my technical expertise with a strong creative vision to deliver impactful digital experiences.
+
+With a passion for innovation at the intersection of **AI, full-stack development, and visual storytelling**, I’m driven to create technology that not only solves problems but inspires change.
+
+*Let’s connect and collaborate to shape the future of AI-driven innovation!*
 
 
 ## 🌐 Socials:
